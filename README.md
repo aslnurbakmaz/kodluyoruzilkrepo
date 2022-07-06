@@ -1,4 +1,4 @@
 # kodluyoruzilkrepo
  Kodluyoruz Eğitimi kapsamında açtığım ilk repo
- ![Lorem Picsum](https://c.mi.com/thread-1709912-1-0.html)
+ ![Lorem Picsum](/20/9e/b9/209eb9facc5053298777749d31e7ca38.png)
 
